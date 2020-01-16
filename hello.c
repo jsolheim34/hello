@@ -7,5 +7,7 @@ Date: 2020/01/16
 int main(void) {
 	printf("Justin Solheim!\n");
 	printf("Undeclared!\n");
+	printf("Chiang Kuan Ruei\n");
+	printf("Computer Science\n");
 	return 0;
 }
