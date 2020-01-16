@@ -6,5 +6,6 @@ Date: 2020/01/16
 
 int main(void) {
 	printf("Justin Solheim!\n");
+	printf("Undeclared!\n");
 	return 0;
 }
